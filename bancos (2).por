@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    inteiro menu
+    inteiro menu=1
     real saldo =0 
     real deposito = 0
     real saque =0
@@ -54,3 +54,5 @@ programa {
           // Extrato
           pare 
         }
+}
+}
